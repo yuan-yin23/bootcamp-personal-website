@@ -1,1 +1,3 @@
 # bootcamp-personal-website
+Education and Hobbies section are to be completed...
+Want to add projects section
